@@ -1,9 +1,9 @@
 .pytest_cache
 
-.idea/
+.idea
 
-.vscode/
+.vscode
 
 */__pycache__
 
-data-dev.db/
+data-dev.db
