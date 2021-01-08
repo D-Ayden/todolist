@@ -1,9 +1,7 @@
-.pytest_cache
-
 .idea
-
 .vscode
 
-./*/__pycache__
+.pytest_cache/
+__pycache__/
 
 data-dev.db
