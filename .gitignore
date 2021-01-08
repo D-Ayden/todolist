@@ -1,5 +1,5 @@
-./.pytest_cache
-./.idea
-./.vscode
-./*/__pycache__
-./data-dev.db
+/.pytest_cache
+/.idea
+/.vscode
+/*/__pycache__
+/data-dev.db
