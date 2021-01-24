@@ -1,8 +1,10 @@
 [tool.poetry]
 name = "todolist"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "This is a todo."
+authors = ["zilch <2361018131@qq.com>"]
+license = "MIT"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
